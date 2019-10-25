@@ -1,3 +1,5 @@
+![This repository is licensed under the CC-BY-SA](https://raw.githubusercontent.com/LibreResources/note/master/CC-BY-SA_icon.svg)
+
 We support the following formats:
 ```
 .docx
