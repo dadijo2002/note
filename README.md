@@ -12,7 +12,7 @@ We support the following formats:
 
 Also, some conventions for naming your notes:
 
-1. Words must be seperated with a hypen, e.g. `this-is-a-note.md`
+1. Words must be separated with a hyphen, e.g. `this-is-a-note.md`
 2. Underscores are replaced with periods, e.g. `lesson-1_3 => Lesson 1.3`
 3. Notes must be added two levels deep, with the following standard:
 ```<section>/<catagory>/your-note.<extention>```
